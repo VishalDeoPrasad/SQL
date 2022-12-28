@@ -1,0 +1,1 @@
+SELECT * from farmers_market.dbo.product
