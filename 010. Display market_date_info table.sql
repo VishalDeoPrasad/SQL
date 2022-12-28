@@ -1,0 +1,1 @@
+SELECT * from farmers_market.dbo.market_date_info
