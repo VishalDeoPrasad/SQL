@@ -1,0 +1,1 @@
+Drop Database sample2
